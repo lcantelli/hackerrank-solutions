@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migratory-birds", "Migratory-birds.csproj", "{A5D1B974-0189-46A2-BBD4-88A6CD53A2FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D1B974-0189-46A2-BBD4-88A6CD53A2FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D1B974-0189-46A2-BBD4-88A6CD53A2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D1B974-0189-46A2-BBD4-88A6CD53A2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D1B974-0189-46A2-BBD4-88A6CD53A2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
